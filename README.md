@@ -35,5 +35,5 @@ This project applies machine learning techniques to detect fraudulent credit car
 | Random Forest       | 0.84      | 0.84   | 0.84     | 0.9710  |
 | Decision Tree       | 0.72      | 0.68   | 0.70     | 0.8417  |
 
-## 📁 Project Structure
+
 
